@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Salary,HireDate
+1,John,Doe,Sales,50000,5/10/2019
+2,Jane,Smith,Marketing,60000,8/15/2020
+3,Mike,Johnson,Sales,55000,3/20/2021
+4,Emily,Davis,IT,75000,11/1/2018
+5,Robert,Brown,Marketing,72000,7/25/2017
+6,Sarah,Wilson,IT,80000,1/10/2021
+7,William,Taylor,Sales,67000,9/5/2019
+8,Mary,Anderson,IT,83000,2/16/2018
+9,James,Lee,Sales,62000,10/22/2020
+10,Patricia,Martinez,Marketing,55000,5/13/2016
