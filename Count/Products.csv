@@ -1,0 +1,7 @@
+ID,Name,Category,Price
+1,Phone,Electronics,500
+2,Laptop,Electronics,1200
+3,Book,Stationery,20
+4,Pen,Stationery,NULL
+5,Headphones,Electronics,100
+6,Notebook,Stationery,15
