@@ -1,0 +1,5 @@
+OrderID,CustomerName,OrderDate,OrderAmount,Region
+1,John Doe,1/10/2024,250,North
+2,Jane Smith,1/12/2024,150,South
+3,Alice Brown,1/15/2024,300,East
+4,Bob White,2/10/2024,450,West
