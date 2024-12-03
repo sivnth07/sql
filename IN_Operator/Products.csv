@@ -1,0 +1,8 @@
+ProductID,ProductName,Category,Price
+1,Laptop,Electronics,800
+2,Smartphone,Electronics,600
+3,Desk,Furniture,200
+4,Chair,Furniture,100
+5,Microwave,Appliances,150
+6,Refrigerator,Appliances,1000
+7,Headphones,Electronics,100

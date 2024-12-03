@@ -1,0 +1,61 @@
+The SQL IN Operator
+
+Example 1 :
+Select * From Products
+Where Category IN ('Electronics','Furniture')
+
+OUTPUT
+ProductID 	ProductName 	Category 	Price
+1		Laptop		Electronics	800
+2		Smartphone	Electronics	600
+3		Desk		Furniture	200
+4		Chair		Furniture	100
+7		Headphones	Electronics	100
+
+
+Example 2 :
+Select * From Products
+Where Price IN (100,200,600)
+
+OUTPUT
+ProductID 	ProductName 	Category 	Price
+2		Smartphone	Electronics	600
+3		Desk		Furniture	200
+4		Chair		Furniture	100
+7		Headphones	Electronics	100
+
+
+Example 3 :
+Select * From Products
+Where Category NOT IN ('Appliances','Furniture')
+
+OUTPUT
+ProductID 	ProductName 	Category 	Price
+1		Laptop		Electronics	800
+2		Smartphone	Electronics	600
+7		Headphones	Electronics	100
+
+
+Example 4 :
+Select * From Products
+Where Category IN ('Electronics', NULL)
+
+OUTPUT
+ProductID 	ProductName 	Category 	Price
+1		Laptop		Electronics	800
+2		Smartphone	Electronics	600
+7		Headphones	Electronics	100
+
+
+Example 5 :
+Select * From Products
+Where Category IN ('Electronics','Furniture')
+AND Price>500
+
+OUTPUT
+ProductID 	ProductName 	Category 	Price
+1		Laptop		Electronics	800
+2		Smartphone	Electronics	600
+
+
+SQL IN Operator Explained With Real Examples!
