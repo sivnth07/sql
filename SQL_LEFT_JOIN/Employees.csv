@@ -1,0 +1,5 @@
+EmployeeID,Name,DepartmentID
+1,Alice,101
+2,Bob,102
+3,Charlie,NULL
+4,Diana,103
