@@ -1,0 +1,14 @@
+EmployeeID,Name,ManagerID,Department,Salary
+1,Alice,NULL,HR,120000
+2,Bob,1,IT,90000
+3,Charlie,1,Sales,80000
+4,Diana,2,IT,75000
+5,Eve,3,Sales,70000
+6,Frank,1,HR,85000
+7,Godwin,4,Software,65000
+8,Martin,5,Manager,80000
+9,Nancy,6,Network,50000
+10,Jack,7,Manager,85000
+11,Steve,8,Network,55000
+12,Maria,9,Software,70000
+13,Smith,10,HR,75000
