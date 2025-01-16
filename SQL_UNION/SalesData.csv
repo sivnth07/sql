@@ -1,0 +1,6 @@
+SalesID,Product,Region,SalesAmount,Month
+1,Laptop,North,5000,January
+2,Phone,South,3000,February
+3,Laptop,East,4000,March
+4,Tablet,West,2000,April
+5,Phone,North,6000,May
