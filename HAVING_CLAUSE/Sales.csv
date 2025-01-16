@@ -1,0 +1,11 @@
+SalesID,CustomerID,Product,Quantity,Price,SaleDate
+1,C001,Laptop,1,1200,1/15/2024
+2,C002,Phone,2,800,2/10/2024
+3,C001,Tablet,3,300,3/5/2024
+4,C003,Laptop,1,1500,4/18/2024
+5,C002,Phone,1,850,11/12/2024
+6,C004,Tablet,4,400,5/20/2024
+7,C001,Laptop,2,1100,6/15/2024
+8,C003,Phone,1,900,7/8/2024
+9,C002,Tablet,5,250,8/19/2024
+10,C004,Laptop,1,1800,9/30/2024
